@@ -1,0 +1,51 @@
+<variables_climaticas>
+	<var>
+		<name>Temperatura</name>
+		<valor>$d1</valor>
+		<description>
+		Temperatura: 0 – 100 °C
+		</description>
+	</var>
+	<var>
+		<name>Dirección de viento</name>
+		<valor>$d2</valor>
+		<description>
+		Dirección de viento: 0 – 360° 
+		</description>
+	</var>
+	<var>
+		<name>Velocidad de viento</name>
+		<valor>$d3</valor>
+		<description>
+		Velocidad de viento: 0 – 60 nudos
+		</description>
+	</var>
+	<var>
+		<name>Presión atmosférica</name>
+		<valor>$d4</valor>
+		<description>
+		Presión atmosférica: 950 – 1050 hPa
+		</description>
+	</var>
+	<var>
+		<name>Humedad</name>
+		<valor>$d5</valor>
+		<description>
+		Humedad:	0 – 100 %
+		</description>
+	</var>
+	<var>
+		<name>Nubosidad</name>
+		<valor>$d6</valor>
+		<description>
+		Nubosidad: 0 – 5 Despejado, 5 – 30 Poco nublado, 30 – 50 Medio nublado, > 50 Nublado
+		</description>
+	</var>
+	<var>
+		<name>Lluvia</name>
+		<valor>$d7</valor>
+		<description>
+		Lluvia:	0.5 – 100 mm
+		</description>
+	</var>	
+</variables_climaticas>
